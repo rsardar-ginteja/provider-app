@@ -99,6 +99,8 @@ Flutter/flutter_export_environment.sh
 Runner/GeneratedPluginRegistrant.*
 ServiceDefinitions.json
 
+
+
 # Linux / Windows Ephemerals
 linux/flutter/ephemeral/
 windows/flutter/ephemeral/
